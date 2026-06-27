@@ -23,12 +23,14 @@ DriveIQ is a full-stack web application designed to help vehicle owners manage m
 
 ## Project Structure
 
+```
 driveiq-smart-vehicle-platform/
 ├── backend/
 ├── frontend/
 ├── database/
 ├── docs/
 └── README.md
+```
   
 Status-Currently in development
 
