@@ -1,6 +1,6 @@
 # Driveiq
 AI powered vehicle intelligence and maintenance management platform.
-# DriveIQ - Smart Vehicle Intelligence Platform
+# DriveIQ
 
 DriveIQ is a full-stack web application designed to help vehicle owners manage maintenance activities, monitor vehicle health, and receive intelligent recommendations for preventive maintenance.
 
