@@ -20,5 +20,24 @@ DriveIQ is a full-stack web application designed to help vehicle owners manage m
 - Postman
 - GitHub
 - LLM API
+
+## Project Structure
+
+driveiq-smart-vehicle-platform/
+├── backend/
+├── frontend/
+├── database/
+├── docs/
+└── README.md
   
 Status-Currently in development
+
+## Roadmap
+
+- [x] Project Planning
+- [x] GitHub Repository Setup
+- [ ] Database Design
+- [ ] Spring Boot Backend
+- [ ] React Frontend
+- [ ] AI Integration
+- [ ] Deployment
